@@ -1,12 +1,3 @@
-"""Gomoku starter code
-You should complete every incomplete function,
-and add more functions and variables as needed.
-
-Note that incomplete functions have 'pass' as the first statement:
-pass is a Python keyword; it is a statement that does nothing.
-This is a placeholder that you should remove once you modify the function.
-"""
-
 def is_empty(board):
   for y in range(len(board[0])):
     for x in range(len(board[1])):
