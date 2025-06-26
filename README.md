@@ -12,4 +12,3 @@ Gomoku is a japanese board game that is essentially a version of tic-tac-toe whe
 - Game loop with alternating turns
 - Move evaluation and scoring
 - Win condition checking
-- Comprehensive testing functions
