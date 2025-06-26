@@ -1,4 +1,4 @@
-# gomoku!
+# Gomoku!
 
 This was my first longer Python project, I built as in ESC180, the first-year EngSci programming course UofT. I realised that I enjoyed progamming after spending reading week debugging edge cases on this 🤓
 
