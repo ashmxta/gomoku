@@ -1,6 +1,6 @@
 # Gomoku!
 
-This was my first longer Python project, I built as in ESC180, the first-year EngSci programming course UofT. I realised that I enjoyed progamming after spending reading week debugging edge cases on this 🤓
+This was my first longer Python project I worked on in ESC180, the first programming course at EngSci UofT. I realised that I enjoyed progamming after spending reading week debugging edge cases on this 🤓
 
 ## 🧠 Project Overview
 Gomoku is a japanese board game that is essentially a version of tic-tac-toe where two players take turns aiming to align five of their stones in a row (horizontally, vertically, or diagonally). This implementation supports:
